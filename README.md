@@ -6,10 +6,9 @@ Reversi (also known as Othello) consists of a 8x8 square board, and pieces with 
 ### Gameplay
 At the start of the game there are four pieces on the board, two white and two black. You must try to capture opponent pieces and flip them over so they turn into your color. You do this by making a horizontal, vertical or diagonal line of pieces, where your pieces surround the other player's pieces. The surrounded opponent pieces are then captured and will be flipped over to your color, increasing the number of your pieces on the board.
 
-Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://gfycat.com/creepymagnificentamericanmarten
 
 **definition credit** - https://cardgames.io/reversi/
 
