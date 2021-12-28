@@ -8,7 +8,7 @@ At the start of the game there are four pieces on the board, two white and two b
 
 https://user-images.githubusercontent.com/72368510/147362669-aa1a0cc1-1e49-4bf7-a079-95e93d2796ac.mp4
 
-**definition credit** - https://cardgames.io/reversi/,
+**definition credit** - https://cardgames.io/reversi/ ,
 **video credit** - https://gfycat.com/creepymagnificentamericanmarten-patrick-chiang-gaming
 
 ## Implementation
