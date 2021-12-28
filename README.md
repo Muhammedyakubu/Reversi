@@ -17,7 +17,7 @@ In Part1, I developed a basic *greedy* AI, which aimed to flip the highest numbe
 However, in part2, the AI utilized a MiniMax Algorithm to "look into the future" and scored potential moves based on:
   1. Number of player pieces flipped
   2. Whether or not a corner is captured 
-  3. The number of player moves available after the move(lower is better).
+  3. The number of player moves available after the move (lower is better).
 
 Both parts support board sizes of 4 - 26.
 
